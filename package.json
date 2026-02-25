@@ -1,0 +1,9 @@
+{
+  "name": "lab-paas-compensar",
+  "version": "1.0.0",
+  "description": "App de prueba para Laboratorio PaaS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
